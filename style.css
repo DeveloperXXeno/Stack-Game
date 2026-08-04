@@ -95,12 +95,12 @@ html, body {
   transform: translatey(0);
 }
 #container.ended #score {
-  transform: translatey(6vh) scale(1.5);
+  transform: translatey(7vh) scale(2.5);
 }
 #container.ended .game-over * {
   opacity: 1;
   transform: translatey(0);
 }
 #container.ended .game-over p {
-  transition-delay: 0.3s;
+  transition-delay: 0.4s;
 }
