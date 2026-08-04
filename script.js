@@ -227,6 +227,7 @@ class Game {
             this.updateState(this.STATES.PLAYING);
             this.addBlock();
         }
+        
     }
     restartGame() {
         this.updateState(this.STATES.RESETTING);
