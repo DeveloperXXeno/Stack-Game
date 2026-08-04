@@ -5,3 +5,4 @@
 
 # Stack is a minimalist arcade game about timing and precision. Tap to place moving blocks and build the highest tower possible. Perfect placements keep your tower stable — mistakes make it shrink. Simple, fast, addictive.
 Play the game at : https://project-stackgame.netlify.app
+ 
