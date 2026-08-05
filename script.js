@@ -2,7 +2,7 @@
 console.clear();
 class Stage {
     constructor() {
-        // container
+        // container 
         this.render = function () {
             this.renderer.render(this.scene, this.camera); 
         };
