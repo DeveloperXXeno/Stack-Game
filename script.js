@@ -1,7 +1,7 @@
 "use strict";
 console.clear();
 class Stage {
-    constructor() {
+    constructor() { 
         // container 
         this.render = function () {
             this.renderer.render(this.scene, this.camera); 
